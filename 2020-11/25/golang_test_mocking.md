@@ -1,5 +1,7 @@
 # Golang의 test mocking에 관해서
 
+* TAG: Golang
+
 Golang's Mocking Techniques - Kyle Yost을 보고 알아들은 점 정리
 
 하나의 기능에 대해서 테스트를 만들고 여러가지 경우를 subtest로 만들어서 struct에 넣어주고 range로 돌리면서 하나씩 t.Run을 사용함. 어떤 서브테스트에서 문제가 발생했는지 알기 위함임.
